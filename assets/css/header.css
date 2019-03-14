@@ -6,19 +6,19 @@ body {
 }
 header {
     background-color: #5f68a7;
-    height: 50px;
+    height: 75px;
 }
 header div {
     background-color: #5f68a7;
     width: 960px;
     margin: 0 auto;
-    height: 50px;
+    height: 75px;
 }
 header h1 {
     float: left;
     margin: 0 auto;
     background-color: #687fa4;
-    height: 50px;
+    height: 75px;
     padding: 4px 10px;
     box-sizing: border-box;
     
