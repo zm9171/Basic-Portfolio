@@ -1,14 +1,15 @@
 body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-image: url(../images/background.jpg);
     margin: 0;
     padding: 0;
 }
 header {
-    background-color: #f558e7;
+    background-color: #5f68a7;
     height: 50px;
 }
 header div {
-    background-color: #26080a;
+    background-color: #5f68a7;
     width: 960px;
     margin: 0 auto;
     height: 50px;
@@ -16,7 +17,7 @@ header div {
 header h1 {
     float: left;
     margin: 0 auto;
-    background-color: #f63d94;
+    background-color: #687fa4;
     height: 50px;
     padding: 4px 10px;
     box-sizing: border-box;
